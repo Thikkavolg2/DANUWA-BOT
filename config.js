@@ -16,7 +16,7 @@ const defaultConfig = {
   ALIVE_IMG: "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
   ALIVE_MSG: "*Hello👋 Thikka-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "",// Add OPENAI API key here
-  GEMINI_API_KEY: "", // Add Gemini API key here
+  GEMINI_API_KEY: "AIzaSyCCVRam8SBgBlQb6wvgi9BKYRWA5YPDRsA", // Add Gemini API key here
   REMOVE_BG_API_KEY:"", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
   BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
